@@ -4,7 +4,7 @@
 //
 // Required parameters:
 // @raycast.schemaVersion 1
-// @raycast.title Quit All Applications
+// @raycast.title $ quit
 // @raycast.mode silent
 // @raycast.packageName System
 //

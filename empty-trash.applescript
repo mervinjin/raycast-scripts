@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Empty Trash
+# @raycast.title $ empty trash
 # @raycast.mode silent
 # @raycast.packageName System
 
